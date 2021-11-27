@@ -67,42 +67,42 @@
     {
       "id": 5,
       "name_category": "Easy",
-      "title": "Basque Burnt Cheesecake",
-      "image": "https://i.pinimg.com/originals/b3/35/57/b33557bfc757244fd96cc9a0359ae1e3.jpg",
-      "description": "Discover and explore success history of the Basque Burnt Cheesecake.",
-      "link": "https://luluilmaknun023.github.io/basqueburntcheesecake/01-basquet%20burnt%20cheesecake.html"
+      "title": "How to Roast Pumpkin Seeds ? (Roasted Pumpkin Seeds)",
+      "image": "https://minimalistbaker.com/wp-content/uploads/2017/10/How-to-Roast-Pumpkin-Seeds-Just-3-ingredients-simple-methods-SO-tasty-Healthy-vegan-plantbased-pumpkin-seeds-recipe-glutenfree-2.jpg",
+      "description": "Complete information for baking pumpkin seeds to make roasted pumpkin seeds.",
+      "link": ""
     },
     {
       "id": 4,
       "name_category": "Easy",
-      "title": "Basuku Cheesecake - Japanese Basque Cheesecake",
-      "image": "https://i2.wp.com/midpenpost.org/wp-content/uploads/2021/04/df763ab8-7ef2-4505-968f-5ee4e5c99fe8_1_105_c.jpeg?resize=770%2C500&ssl=1",
-      "description": "Japanese style of Basque Burnt Cheesecake have burst onto the Bay Area food scene.",
-      "link": "https://luluilmaknun023.github.io/basqueburntcheesecake/BASUKU%20Cheesecakes%20-%20japanese%20cheescake.html"
+      "title": "Making Pumpkin Seeds",
+      "image": "https://pipingpotcurry.com/wp-content/uploads/2020/05/Roasted-Pumpkin-Seeds-Air-Fryer-Piping-Pot-Curry.webp",
+      "description": "You can make pumpkin seeds in air fryer or pumpkin seeds in oven.",
+      "link": ""
     },
     {
       "id": 3,
       "name_category": "Medium",
-      "title": "Basque Burnt Cheesecake Recipe",
-      "image": "https://spanishsabores.com/wp-content/uploads/2020/05/DSC08145.jpg",
-      "description": "This Burnt Basque Cheesecake has a fantastic combination of textures, and it’s creamy from the inside, almost custard-like, and caramelized from the outside.",
-      "link": "https://luluilmaknun023.github.io/basqueburntcheesecake/Basque%20Burnt%20Cheesecake%20RECIPE.html"
+      "title": "Sweet Pumpkin Seed Recipe (Cinnamon Sugar Pumpkin Seeds)",
+      "image": "https://joyfoodsunshine.com/wp-content/uploads/2016/10/cinnamon-sugar-pumpkin-seeds-recipe-1-720x720.jpg",
+      "description": "Making homemade cinnamon sugar pumpkin seeds for the perfect sweet.",
+      "link": ""
     },
 	{
       "id": 2,
       "name_category": "Medium",
-      "title": "Matcha Basque Cheesecake Recipe",
-      "image": "https://www.justonecookbook.com/wp-content/uploads/2020/12/Matcha-Basque-Burnt-Cheesecake-2577-IV.jpg",
-      "description": "This Matcha Basque Cheesecake recipe is a Japanese take on classic burnt Basque Cheesecake.",
-      "link": "https://luluilmaknun023.github.io/basqueburntcheesecake/Matcha%20Basque%20Cheesecake%20RECIPE.html"
+      "title": "Baked Pumpkin Seeds Recipe",
+      "image": "https://cookieandkate.com/images/2020/10/best-roasted-pumpkin-seeds-recipe-2-550x824.jpg",
+      "description": "This fun recipe yields perfect roasted pumpkin seeds, every time.",
+      "link": ""
     },
 	{
       "id": 1,
       "name_category": "Medium",
-      "title": "Blueberry Basque Cheesecake Recipe",
-      "image": "https://communitykitchenatl.com/wp-content/uploads/2019/08/blueberry-basque-cheesecake-community-kitchen-atlanta.jpg",
-      "description": "Blueberry Basque Cheesecake is a delicious and easy recipe that will be enjoyed by everyone in the family.",
-      "link": "https://luluilmaknun023.github.io/basqueburntcheesecake/blueberry%20basque%20cheesecake%20RECIPE.html"
+      "title": "Pumpkin Pie Recipe",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/11/26/0/FN_Pumpkin-Pie_s4x3.jpg.rend.hgtvcom.826.620.suffix/1386172256183.jpeg",
+      "description": "Fill a sweet shortcrust pastry tart case with lightly spiced squash to make a traditional American treat.",
+      "link": ""
     }
   ]
 }
