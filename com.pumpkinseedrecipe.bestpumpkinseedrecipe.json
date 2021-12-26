@@ -1,14 +1,14 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "APPLOVIN-D",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-9200602507152446/2009467153",
-      "main_ads_intertitial":"ca-app-pub-9200602507152446/7070222140",
-      "native_for_admob":"ca-app-pub-9200602507152446/3130977131",
+      "main_ads_banner": "fb9da7e54b29cb5a",
+      "main_ads_intertitial":"ccb4fbc891c7f6f4",
+      "native_for_admob":"",
       "backup_ads_banner":"fb9da7e54b29cb5a",
       "backup_ads_intertitial":"ccb4fbc891c7f6f4",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "cinnamon sugar pumpkin seeds",
